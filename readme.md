@@ -10,4 +10,4 @@ Link on GitHub Pages [turlututu](https://kristinegusta.github.io/tulututu-mockup
 
 ## The result
 
-![My Turlututu design](\images\githubio.jpg "My Turlututu design")
+![My Turlututu design](githubio.jpg "My Turlututu design")
